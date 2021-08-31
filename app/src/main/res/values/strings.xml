@@ -1,0 +1,4 @@
+<resources>
+    <string name="app_name">diary</string>
+    <string name="preference_file_key">shop.sorayeon.android.diary.diary</string>
+</resources>
